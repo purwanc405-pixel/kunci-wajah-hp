@@ -1,0 +1,9 @@
+{
+  "name": "Kunci Wajah",
+  "short_name": "KunciWajah",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070B14",
+  "theme_color": "#070B14",
+  "orientation": "portrait"
+}
